@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="userytdl.png" width="220" alt="userytdl logo" />
+<img src="userytdl-new.png" width="220" alt="userytdl logo" />
 
 # userytdl
 
